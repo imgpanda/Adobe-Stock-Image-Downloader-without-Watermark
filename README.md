@@ -1,1 +1,1 @@
-# Adobe-Stock-Image-Downloader-without-Watermark
+# Adobe Stock Image Downloader Without Watermark
